@@ -1,4 +1,4 @@
-//go:build aix || dragonfly || freebsd || (js && wasm) || nacl || linux || netbsd || openbsd || solaris
+//go:build aix || dragonfly || freebsd || (js && wasm) || nacl || linux || netbsd || openbsd || redox || solaris
 
 package xdg
 

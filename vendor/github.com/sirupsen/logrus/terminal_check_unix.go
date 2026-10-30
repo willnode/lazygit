@@ -1,4 +1,4 @@
-//go:build (linux || aix || zos) && !tinygo
+//go:build (linux || redox || aix || zos) && !tinygo
 
 package logrus
 

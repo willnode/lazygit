@@ -1,5 +1,5 @@
-//go:build (linux || aix || zos) && !appengine && !tinygo
-// +build linux aix zos
+//go:build (linux || redox || aix || zos) && !appengine && !tinygo
+// +build linux redox aix zos
 // +build !appengine
 // +build !tinygo
 
